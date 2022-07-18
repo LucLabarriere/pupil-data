@@ -26,7 +26,6 @@ player_settings/
 settings/
 *.db
 *.npy
-*.png
 *.log
 
 
